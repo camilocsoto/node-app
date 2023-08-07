@@ -1,10 +1,9 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "This is a kind of experiment that makes the project from github to the local repositorie.",
+  "description": "Consumo de Api para mostrar las canciones más populares de RadioHead",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d ./src"
   },
   "repository": {
